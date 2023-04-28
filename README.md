@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [developing a discord bot with all the required functions](https://github.com/Aadit017/Discord_bot_prc)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently practicing **Competitive Coding**
 
 - 👯 I’m looking to collaborate on **M.E.R.N. stack oriented projects**
 
