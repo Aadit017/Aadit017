@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Front end Dev and its implementation using various libraries as well Backend coding revolving around logic based solutions**
 
-- 📫 How to reach me **@Discord - Aadit.#5116**
+- 📫 How to reach me **@Discord - aadit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
