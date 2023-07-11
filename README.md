@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadit017&label=Profile%20views&color=0e75b6&style=flat" alt="aadit017" /> </p>
 
-- 🔭 I’m currently working on [developing a discord bot with all the required functions](https://github.com/Aadit017/Discord_bot_prc)
 
 - 🌱 I’m currently practicing **Competitive Coding**
 
