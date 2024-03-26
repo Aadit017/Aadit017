@@ -1,6 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadit017&label=Profile%20views&color=0e75b6&style=flat" alt="aadit017" /> </p>
 <h1 align="center">Hi 👋, I'm Aadit Singh Bagga</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=1DF71B&random=false&width=435&lines=ECE+student+exploring+embedded+systems.;Learning+Arduino%2C+data+structures%2C+competitive+programming.;Curates+music%2C+enjoys+public+speaking.;Former+web+developer%2C+keen+volunteer.;Excited+to+collaborate+on+embedded+systems.)](https://git.io/typing-svg)
 ## About Me
 
