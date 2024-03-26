@@ -1,6 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadit017&label=Profile%20views&color=0e75b6&style=flat" alt="aadit017" /> </p>
 <h1 align="center">Hi 👋, I'm Aadit Singh Bagga</h1>
+
 ## About Me
 
 I'm Aadit, a passionate learner currently pursuing a degree in Electronics and Communications Engineering, based in Ludhiana. Here's a glimpse into what keeps me busy these days:
