@@ -32,6 +32,8 @@ I'm looking forward to collaborating with like-minded individuals on projects in
 
 <!-- Markdown -->
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Goblin.png" alt="Goblin" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ejtc3oosahtbo5c396mdo5ll4">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ejtc3oosahtbo5c396mdo5ll4" alt="Data Card for Spotify">
 </a>
