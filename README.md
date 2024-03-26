@@ -31,5 +31,4 @@ I'm looking forward to collaborating with like-minded individuals on projects in
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)  ![im listening](https://spotify-recently-played-readme.vercel.app/api?user=ejtc3oosahtbo5c396mdo5ll4)
-
+![Jokes Card](https://readme-jokes.vercel.app/api) 
