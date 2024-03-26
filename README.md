@@ -25,7 +25,6 @@ I'm Aadit, a passionate learner currently pursuing a degree in Electronics and C
 - 🔧 **Former Web Developer:** Although I used to dabble in web development in the past, I've shifted my focus to other areas of interest.
 - 🤝 **Keen Volunteer:** I'm passionate about giving back to the community and actively seek opportunities to volunteer for meaningful projects and initiatives.
 
-- [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=ray&rotate=96)](https://moon-svg.minung.dev)
 
 ## Collaboration
 
