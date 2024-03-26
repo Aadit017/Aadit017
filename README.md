@@ -28,3 +28,7 @@ I'm Aadit, a passionate learner currently pursuing a degree in Electronics and C
 
 I'm looking forward to collaborating with like-minded individuals on projects involving Embedded Systems. If you share my enthusiasm for this field, let's connect and work together to create something amazing!
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
