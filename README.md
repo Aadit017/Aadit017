@@ -27,3 +27,5 @@ I'm Aadit, a passionate learner currently pursuing a degree in Electronics and C
 ## Collaboration
 
 I'm looking forward to collaborating with like-minded individuals on projects involving Embedded Systems. If you share my enthusiasm for this field, let's connect and work together to create something amazing!
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ejtc3oosahtbo5c396mdo5ll4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ejtc3oosahtbo5c396mdo5ll4&redirect=true)
